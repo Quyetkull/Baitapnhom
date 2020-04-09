@@ -1,0 +1,11 @@
+C:\Users\oOOo\Documents\Web - Localhost\htdocs\first-test\Baitapnhom\Baitapnhom\obj\Debug\Baitapnhom.csprojAssemblyReference.cache
+C:\Users\oOOo\Documents\Web - Localhost\htdocs\first-test\Baitapnhom\Baitapnhom\obj\Debug\Baitapnhom.Form1.resources
+C:\Users\oOOo\Documents\Web - Localhost\htdocs\first-test\Baitapnhom\Baitapnhom\obj\Debug\Baitapnhom.Properties.Resources.resources
+C:\Users\oOOo\Documents\Web - Localhost\htdocs\first-test\Baitapnhom\Baitapnhom\obj\Debug\Baitapnhom.csproj.GenerateResource.cache
+C:\Users\oOOo\Documents\Web - Localhost\htdocs\first-test\Baitapnhom\Baitapnhom\obj\Debug\Baitapnhom.csproj.CoreCompileInputs.cache
+C:\Users\oOOo\Documents\Web - Localhost\htdocs\first-test\Baitapnhom\Baitapnhom\bin\Debug\Baitapnhom.exe.config
+C:\Users\oOOo\Documents\Web - Localhost\htdocs\first-test\Baitapnhom\Baitapnhom\bin\Debug\Baitapnhom.exe
+C:\Users\oOOo\Documents\Web - Localhost\htdocs\first-test\Baitapnhom\Baitapnhom\bin\Debug\Baitapnhom.pdb
+C:\Users\oOOo\Documents\Web - Localhost\htdocs\first-test\Baitapnhom\Baitapnhom\obj\Debug\Baitapnhom.exe
+C:\Users\oOOo\Documents\Web - Localhost\htdocs\first-test\Baitapnhom\Baitapnhom\obj\Debug\Baitapnhom.pdb
+C:\Users\oOOo\Documents\Web - Localhost\htdocs\first-test\Baitapnhom\Baitapnhom\obj\Debug\Baitapnhom.Form2.resources
